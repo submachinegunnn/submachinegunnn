@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm ak9mee</h1>
-<h3 align="right" alt="Lucki" width "400" src="https://user-images.githubusercontent.com/112445400/236647204-c9c74c99-cf23-4728-98aa-37814476f144.gif">
+<h1 align="center">Hi 👋, I'm ak9mee</h1>
+<img align="right" alt="Lucki" width "400" src="https://user-images.githubusercontent.com/112445400/236647204-c9c74c99-cf23-4728-98aa-37814476f144.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak9mee&label=Profile%20views&color=0e75b6&style=flat" alt="ak9mee" /> </p>
