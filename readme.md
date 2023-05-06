@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ak9mee</h1>
 
-<img align="right" alt="Lucki" width "400" src="https://user-images.githubusercontent.com/112445400/236647204-c9c74c99-cf23-4728-98aa-37814476f144.gif">
+![outtheway](https://user-images.githubusercontent.com/112445400/236647298-701607b0-2bc1-412c-b7a1-22a1652ab0ad.jpg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak9mee&label=Profile%20views&color=0e75b6&style=flat" alt="ak9mee" /> </p>
 
@@ -17,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak9mee&show_icons=true&locale=en&layout=compact" alt="ak9mee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak9mee&show_icons=true&locale=en" alt="ak9mee" /></p>
+
+![lucki](https://user-images.githubusercontent.com/112445400/236647300-a9d3c5ef-acc6-4208-beca-23a54e843312.gif)
