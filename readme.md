@@ -1,6 +1,5 @@
-![carti](https://user-images.githubusercontent.com/112445400/236646798-56658f1c-ef47-4ecf-b2a7-12759167aa69.gif)
-
 <h1 align="center">Hi 👋, I'm ak9mee</h1>
+![lucki](https://ak9mee.github.io/discordneeds/lucki.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak9mee&label=Profile%20views&color=0e75b6&style=flat" alt="ak9mee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak9mee" alt="ak9mee" /></a> </p>
